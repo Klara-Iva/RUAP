@@ -1,0 +1,1 @@
+Ova datoteka sadrzi dodatni tekst kojim se dokazuje promjena na gitu.
